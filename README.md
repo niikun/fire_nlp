@@ -1,5 +1,6 @@
 # fire_nlp
 building NLP app with fire
+[![LangServe test deploy](https://github.com/niikun/fire_nlp/actions/workflows/main.yml/badge.svg)](https://github.com/niikun/fire_nlp/actions/workflows/main.yml)
 
 ## Python Script
 
