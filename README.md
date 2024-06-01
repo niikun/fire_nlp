@@ -18,6 +18,6 @@ TextBlobはテキストデータを処理するためのPythonライブラリで
 ## 名詞抽出
 
 nameの後ろに名詞を入れてもらえれば、wikipediaから名詞を検索して、その中に含まれる名詞を抽出できます。
-"""bash
+"""
 ./search_nlp.py --name OpenAI
 """
